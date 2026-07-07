@@ -45,4 +45,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/DhruvKalbalia/JP-Morgan-DSA/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/DhruvKalbalia/JP-Morgan-DSA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/DhruvKalbalia/JP-Morgan-DSA/tree/master/0283-move-zeroes) |
+## Tree
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/DhruvKalbalia/JP-Morgan-DSA/tree/master/0572-subtree-of-another-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/DhruvKalbalia/JP-Morgan-DSA/tree/master/0572-subtree-of-another-tree) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/DhruvKalbalia/JP-Morgan-DSA/tree/master/0572-subtree-of-another-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/DhruvKalbalia/JP-Morgan-DSA/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/DhruvKalbalia/JP-Morgan-DSA/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
