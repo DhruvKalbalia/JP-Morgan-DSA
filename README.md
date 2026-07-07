@@ -4,11 +4,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/DhruvKalbalia/JP-Morgan-DSA/tree/master/0217-contains-duplicate) |
 | [1200-minimum-absolute-difference](https://github.com/DhruvKalbalia/JP-Morgan-DSA/tree/master/1200-minimum-absolute-difference) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/DhruvKalbalia/JP-Morgan-DSA/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/DhruvKalbalia/JP-Morgan-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/DhruvKalbalia/JP-Morgan-DSA/tree/master/0242-valid-anagram) |
 | [1200-minimum-absolute-difference](https://github.com/DhruvKalbalia/JP-Morgan-DSA/tree/master/1200-minimum-absolute-difference) |
 ## Prefix Sum
@@ -31,5 +33,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/DhruvKalbalia/JP-Morgan-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/DhruvKalbalia/JP-Morgan-DSA/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
