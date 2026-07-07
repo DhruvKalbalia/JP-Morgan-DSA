@@ -14,4 +14,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/DhruvKalbalia/JP-Morgan-DSA/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+## Math
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/DhruvKalbalia/JP-Morgan-DSA/tree/master/0412-fizz-buzz) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/DhruvKalbalia/JP-Morgan-DSA/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/DhruvKalbalia/JP-Morgan-DSA/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
