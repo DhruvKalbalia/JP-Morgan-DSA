@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/DhruvKalbalia/JP-Morgan-DSA/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/DhruvKalbalia/JP-Morgan-DSA/tree/master/0412-fizz-buzz) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/DhruvKalbalia/JP-Morgan-DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## String
 |  |
 | ------- |
@@ -65,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/DhruvKalbalia/JP-Morgan-DSA/tree/master/0572-subtree-of-another-tree) |
+## Linked List
+|  |
+| ------- |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/DhruvKalbalia/JP-Morgan-DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
