@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/DhruvKalbalia/JP-Morgan-DSA/tree/master/0242-valid-anagram) |
 | [1200-minimum-absolute-difference](https://github.com/DhruvKalbalia/JP-Morgan-DSA/tree/master/1200-minimum-absolute-difference) |
 ## Prefix Sum
 |  |
@@ -21,9 +22,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/DhruvKalbalia/JP-Morgan-DSA/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/DhruvKalbalia/JP-Morgan-DSA/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/DhruvKalbalia/JP-Morgan-DSA/tree/master/0412-fizz-buzz) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/DhruvKalbalia/JP-Morgan-DSA/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
